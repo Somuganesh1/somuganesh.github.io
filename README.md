@@ -1,7 +1,7 @@
 # Software Engineer
 
 ### Education
-Illinois Institute of Technology, Chicago, IL                                  MAY 2025(Expected)
+Illinois Institute of Technology, Chicago, IL                                  MAY 2025(Expected)\n
 Master of Science, Computer Science 
 Coursework: Machine Learning, Deep Learning, Design and Analysis of Algorithms, GPA 3.7
 
